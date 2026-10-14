@@ -18,6 +18,7 @@ const { Layout } = DefaultTheme;
           <div>NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.</div>
           <div>© 2026 Henry Meyer.</div>
           <div>Code licensed under MIT • Content under CC BY 4.0 • Icons &amp; Logos All Rights Reserved.</div>
+          <div>A <a href="https://gaming.hmlabs.eu">HMLabs-Gaming</a> Project.</div>
         </div>
       </footer>
     </template>
